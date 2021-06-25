@@ -1,0 +1,21 @@
+lockfileVersion: 5.3
+
+specifiers:
+  miniprogram-api-typings: ^2.8.3-1
+  typescript: ^3.3.3333
+
+devDependencies:
+  miniprogram-api-typings: 2.12.0
+  typescript: 3.9.10
+
+packages:
+
+  /miniprogram-api-typings/2.12.0:
+    resolution: {integrity: sha512-ibvbqeslVFur0IAvTxLMvsbtvVcMo6gwvOnj0YZHV7aeDLu091VQRrETT2QuiG9P6aZWRcxeNGJChRKVPCp9VQ==}
+    dev: true
+
+  /typescript/3.9.10:
+    resolution: {integrity: sha512-w6fIxVE/H1PkLKcCPsFqKE7Kv7QUwhU8qQY2MueZXWx5cPZdwFupLgKK3vntcK98BtNHZtAF4LA/yl2a7k8R6Q==}
+    engines: {node: '>=4.2.0'}
+    hasBin: true
+    dev: true
